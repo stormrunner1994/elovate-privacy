@@ -3,9 +3,8 @@
 ## 1. Verantwortliche Stelle
 
 **Elovate App**  
-[Dein Name oder Unternehmensname]  
-[Adresse]  
-[Deine E-Mail-Adresse]
+Elovate
+lars.pfennigdev@googlemail.com
 
 ## 2. Erhebung und Verarbeitung personenbezogener Daten
 
